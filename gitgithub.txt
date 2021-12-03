@@ -1,0 +1,51 @@
+git config --global user.name "your name" //making user name
+
+git config --global user.email "email"  //set email
+
+git config --global --edit //edit config file
+
+
+====================
+git init
+
+git add "file name"    - To track file
+git add .      - tracks all files
+
+goes to staging area
+--------------- 
+git status   
+
+
+-------------
+git commit -m "message"
+
+to see all commits
+git log
+ --------
+-----------------------------------
+to go different commits
+
+git checkout copy/paste Hascode
+
+----------------------------------------
+
+to go current 
+
+git checkout master
+-------------------------------------------
+
+
+To make branch
+git branch name
+
+merge
+git merge name
+-----------
+
+git remote -v
+
+----
+
+git push  => to update in github
+
+
